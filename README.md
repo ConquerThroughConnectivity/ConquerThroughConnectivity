@@ -1,4 +1,81 @@
 
+<h1 align="center">Hi 👋, I'm Newbie From PH</h1>
+<h3 align="center">Flutter Developer • Firebase Enthusiast • Backend Learner</h3>
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently building **real-time apps with Flutter + Firebase**
+- 🌱 Learning **Riverpod, WebSockets, REST APIs, Django backend**
+- ⚡ Interested in **AI-powered apps, messaging systems, and automation**
+- 🎯 Goal: Become a world-class mobile + backend engineer
+
+---
+
+## 🏆 Achievements
+
+### ✔️ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+### ✔️ Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+### ✔️ Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=15" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+### **Mobile & Frontend**
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode" />
+
+### **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=firebase,python,django,nodejs,mongodb,mysql" />
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+
+---
+
+## 📂 Featured Repositories
+
+### 🔥 **Real-time Flutter Chat App**
+📌 A complete messenger clone using Flutter, Firebase, Riverpod  
+➡️ https://github.com/YOUR_USERNAME/flutter-chat-app
+
+### 📌 **Flutter + Django REST API Starter**
+Full stack template with auth, roles, tokens  
+➡️ https://github.com/YOUR_USERNAME/flutter-django-template
+
+### ⚡ **Geofencing Realtime Class Monitoring**
+Firebase triggers + Flutter location system  
+➡️ https://github.com/YOUR_USERNAME/geofence-attendance
+
+---
+
+## 🐍 GitHub Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your@email.com
+- 💬 Messenger/FB: yourprofile
+- 🌐 Portfolio (optional): yoursite.com
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GATXUWWYDFFHN4SK64F6H3X6UVUCRGMR6BXJ4JAPT2MMG5QI5VRQLQNE) 
 
