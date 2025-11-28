@@ -1,80 +1,62 @@
-
 <h1 align="center">Hi 👋, I'm Newbie From PH</h1>
-<h3 align="center">Flutter Developer • Firebase Enthusiast • Backend Learner</h3>
+<h3 align="center">Flutter Developer • Firebase • Riverpod • Backend Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently building **real-time apps with Flutter + Firebase**
-- 🌱 Learning **Riverpod, WebSockets, REST APIs, Django backend**
-- ⚡ Interested in **AI-powered apps, messaging systems, and automation**
-- 🎯 Goal: Become a world-class mobile + backend engineer
+- 🎯 Passionate about **Flutter + Firebase** real-time apps  
+- 🔭 Currently building **messenger-like apps, geofencing systems, and AI tools**  
+- 🌱 Learning **Django REST API, WebSockets, system architecture**  
+- 🛠️ I love creating clean, scalable, modular codebases  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements & Badges
 
-### ✔️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
-### ✔️ Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160">
 
-### ✔️ Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=15" />
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
-### **Mobile & Frontend**
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode" />
+# 🧰 Tech Stack (Badges)
 
-### **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=firebase,python,django,nodejs,mongodb,mysql" />
+### 📱 **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+### 🔥 **Backend / Database**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🧪 **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-## 📂 Featured Repositories
+# 📂 Featured Repositories
 
-### 🔥 **Real-time Flutter Chat App**
-📌 A complete messenger clone using Flutter, Firebase, Riverpod  
+### 🔥 **1. Real-Time Flutter Chat App (Messenger Clone)**
+📌 Flutter + Firebase + Riverpod + Typing indicators + Online status  
 ➡️ https://github.com/YOUR_USERNAME/flutter-chat-app
 
-### 📌 **Flutter + Django REST API Starter**
-Full stack template with auth, roles, tokens  
-➡️ https://github.com/YOUR_USERNAME/flutter-django-template
-
-### ⚡ **Geofencing Realtime Class Monitoring**
-Firebase triggers + Flutter location system  
-➡️ https://github.com/YOUR_USERNAME/geofence-attendance
-
 ---
 
-## 🐍 GitHub Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
+### ⚡ **2. Flutter + Django REST F**
 
----
-
-## 📫 Contact Me
-- 📧 Email: your@email.com
-- 💬 Messenger/FB: yourprofile
-- 🌐 Portfolio (optional): yoursite.com
-
----
-
-⭐ **If you like my work, consider starring my repositories!**  
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GATXUWWYDFFHN4SK64F6H3X6UVUCRGMR6BXJ4JAPT2MMG5QI5VRQLQNE) 
